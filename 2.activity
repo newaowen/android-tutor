@@ -1,0 +1,23 @@
+# 2. Activity
+
+### 2.0 生命周期
+
+  - [完整周期文档](http://developer.android.com/reference/android/app/Activity.html#ActivityLifecycle)
+  - 常用覆盖方法
+    - onCreate
+    - onResume
+    - onPause
+    - onDestory
+
+
+### 2.1 task(activity堆栈)
+
+
+### 2.2 intent
+
+
+### 2.3 界面间传参数
+  - startActivityForResult
+  - onActivityResult
+
+### 2.4 进阶fragment
