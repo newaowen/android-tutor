@@ -1,0 +1,17 @@
+# 4. 高级
+
+### 4.0 ui线程和后台线程
+
+#### handler, looper, message loop
+
+#### AsyncTask
+
+#### Loader
+
+### 4.1 网络IO
+
+### 4.2 存储IO
+
+### 4.3 Service
+
+### 4.4 Broadcast

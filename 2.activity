@@ -8,16 +8,18 @@
     - onResume
     - onPause
     - onDestory
+    - onBackPressed
 
 
 ### 2.1 task(activity堆栈)
 
 
-### 2.2 intent
+### 2.2 配置改变(configuration change)
 
 
 ### 2.3 界面间传参数
   - startActivityForResult
   - onActivityResult
+
 
 ### 2.4 进阶fragment
